@@ -2,7 +2,7 @@
 
 For full project report please read "Car Parking Monitoring and Management System.pdf" file.
 
-For visual project presentation follow this link to a youtube video: ...
+For visual project presentation follow this link to a youtube video: https://www.youtube.com/watch?v=wEwm56atyZI
 
 Car parking monitoring and management system project is trying to provide autonomous parking system intended for specific group of people, such as tenants of specific building, or parking of the specific institution. Parking system that is developed in this project is able to, with no additional human interference, function and manage whole parking. Meaning, it can let correct users in and out of the parking based on the database of all allowed users provided. Then, it keeps track who entered, who exited parking, how many users and which users are currently on the parking. 
  
